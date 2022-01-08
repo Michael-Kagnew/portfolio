@@ -1,11 +1,14 @@
 {
-  "name": "web",
+  "name": "ui",
   "version": "1.0.0",
-  "description": "front end portion of project",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.0.12"
+  }
 }
